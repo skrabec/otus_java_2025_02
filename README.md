@@ -1,1 +1,3 @@
-# otus_java_2025_02
+### Студент
+Николай Скребец (Nikolaj Skrabec)<br>
+
